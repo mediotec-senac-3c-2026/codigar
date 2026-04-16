@@ -1,7 +1,9 @@
 # codigar
 
 feito por:
-- erik
-- max
-- swenson
-- lucas kimiele
+- Erik
+- Max
+- Arthur swenson
+- Lucas Kimle
+- Izidorio
+- Cauã -Pereira
